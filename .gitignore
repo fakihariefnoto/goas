@@ -3,3 +3,5 @@ loginapp
 oauthapp
 registerapp
 userserviceapp
+
+vendor/*
