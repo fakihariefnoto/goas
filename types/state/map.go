@@ -1,7 +1,7 @@
 package state
 
 import (
-	c "github.com/fakihariefnoto/goas/data/constanta"
+	c "github.com/fakihariefnoto/goas/types/constanta"
 	"os"
 	"strings"
 )
